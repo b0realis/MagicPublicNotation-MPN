@@ -1,0 +1,7 @@
+; A minimal Godot 4 project, only so the reference reader and move list can
+; be run on their own: see README.md in this folder.
+config_version=5
+
+[application]
+
+config/name="MPN reference"
